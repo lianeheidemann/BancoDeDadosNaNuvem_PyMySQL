@@ -1,3 +1,5 @@
+// Utilizando o Servidor: db4free.net
+
 import pymysql
 import time
 from calculo import calcula_Max, calcula_bacterias
